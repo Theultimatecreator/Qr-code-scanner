@@ -4,16 +4,14 @@ Gives information about qr codes
 # 📲 [Download](https://github.com/Theultimatecreator/Qr-code-scanner/releases/download/v1.0/app-debug.apk)
 
 
-**📸 Screenshots**                                                  
-                       
-![doc_2024-10-29_15-57-13](https://github.com/user-attachments/assets/cb9dc9bf-ac9e-47a6-953d-0e6f68ff58d1)
+**📸 Screenshots**    
+
+#![ezgif-7-3d2290504b](https://github.com/user-attachments/assets/c252706d-72f9-4c18-8fc4-d36d43ae6a37)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6236315-4861-48f3-8117-17a2830e6502" width="200">
 </p>
 
-
-#
 
 🔍 About               
 
