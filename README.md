@@ -20,9 +20,9 @@ You can scan any qr code you want and it shows the information behinde it.
 
 🛠️ Technologies   
 
-**Ml kit** - for recognizing qr code.
-**Compose** - for ui.
-**Coroutines** - for asycronaus programming.
+**Ml kit** - for recognizing qr code.                                                 
+**Compose** - for ui.                                                         
+**Coroutines** - for asycronaus programming.                                                
 
 #
 
