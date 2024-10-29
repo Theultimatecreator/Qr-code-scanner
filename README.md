@@ -6,7 +6,7 @@ Gives information about qr codes
 
 **📸 Screenshots**    
 
-#![ezgif-7-3d2290504b](https://github.com/user-attachments/assets/c252706d-72f9-4c18-8fc4-d36d43ae6a37)
+![ezgif-7-3d2290504b](https://github.com/user-attachments/assets/c252706d-72f9-4c18-8fc4-d36d43ae6a37)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6236315-4861-48f3-8117-17a2830e6502" width="200">
